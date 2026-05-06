@@ -1,4 +1,4 @@
-#LA Crime Data Analysis — LAPD EDA Project
+## LA Crime Data Analysis — LAPD EDA Project
 
 An exploratory data analysis of Los Angeles crime data, built on a DataCamp project and extended with additional personal EDA, visualizations, and written interpretations.
 
